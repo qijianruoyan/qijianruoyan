@@ -2,9 +2,6 @@
 
 I am Qi Jian Chuo Yan from China who is a Noob, Open Source and V Contributor, loves Anime and Manga and LoL, always learning new things, ready for discussions and making new projects.
 
-- 😄 Pronouns: He/him
-- ⚡ Fun fact: [Acknowledged](https://raw.githubusercontent.com/Delta456/Delta456/master/img/solomon.png) by [Guido Van Rossum](https://github.com/gvanrossum) himself 🤯
-
 ### Programming Languages 🌐
 
 - Know/Using
